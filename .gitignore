@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Data files (keep sample placeholders instead)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
+/saved_model/
+/final_models/
+/explainability/
+
+# Plots and images
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
