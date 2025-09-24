@@ -2,6 +2,9 @@
 
 This repository contains two Jupyter notebooks for laminitis risk scoring and model-based prediction using multiple ML algorithms.
 
+## Streamlit Web application
+- The [link][https://laminitisv2-wcuxvjgqrsy3dphqzyqg2n.streamlit.app] is available.
+
 ## Notebooks
 - `Final_Lamintis_ML_Prediction_2_class_2_21_Sep.ipynb`: End-to-end training, cross-validation, model comparison, ROC/confusion plots, model export, and SHAP explainability.
 - `Final_Lamintis_score_2_class_2_21_Sep.ipynb`: Logistic-regression-based scoring system with point allocation and risk estimation table generation.
