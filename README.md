@@ -6,8 +6,9 @@ This repository contains two Jupyter notebooks for laminitis risk scoring and mo
 - The [link](https://lampred.streamlit.app/#laminitis-risk-prediction-web-app) is available.
 
 ## Notebooks
-- `Final_Lamintis_ML_Prediction_2_class_2_21_Sep.ipynb`: End-to-end training, cross-validation, model comparison, ROC/confusion plots, model export, and SHAP explainability.
-- `Final_Lamintis_score_2_class_2_21_Sep.ipynb`: Logistic-regression-based scoring system with point allocation and risk estimation table generation.
+- `Preprocessing.ipynb`: Preprocessing.
+- `ML.ipynb`: End-to-end training, cross-validation, model comparison, ROC/confusion plots, model export, and SHAP explainability.
+- `Risk_score_calculation.ipynb`: Logistic-regression-based scoring system with point allocation and risk estimation table generation.
 
 ## Project structure
 - `requirements.txt`: Python dependencies.
